@@ -47,7 +47,7 @@ Mi experiencia se centra en las siguientes áreas y tecnologías:
 ### 🛡️ Certificaciones
 
 <p>
-  <a href="URL_A_TU_BADGE_EN_CREDI.LY"><img alt="https://www.credly.com/badges/fe00c6ba-8b30-4540-9840-980117213120/public_url"></a>
+  <a href="URL_A_TU_BADGE_EN_CREDI.LY"><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fe00c6ba-8b30-4540-9840-980117213120" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></a>
 </p>
 
 
