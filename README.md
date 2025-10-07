@@ -46,8 +46,10 @@ Mi experiencia se centra en las siguientes áreas y tecnologías:
 
 ### 🛡️ Certificaciones
 
-<p>
-  <a href="URL_A_TU_BADGE_EN_CREDI.LY"><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fe00c6ba-8b30-4540-9840-980117213120" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></a>
+<p align="center">
+  <a href="https://www.credly.com/badges/fe00c6ba-8b30-4540-9840-980117213120/public_url" target="_blank">
+    <img alt="Certificado de Gestión de Amenazas Cibernéticas" src="https://github.com/user-attachments/assets/75e7441f-fedd-4c38-a0a8-dde3464a8032" width="250" />
+  </a>
 </p>
 
 
